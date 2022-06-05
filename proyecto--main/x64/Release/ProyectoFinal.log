@@ -1,0 +1,9 @@
+﻿  ProyectoFinal.cpp
+F:\Tareas de 3er Semestre\Programacion 1\proyecto_sin color\ProyectoFinal-master\ProyectoFinal-master\empleados.h(51,16): warning C4101: 'nit': variable local sin referencia
+F:\Tareas de 3er Semestre\Programacion 1\proyecto_sin color\ProyectoFinal-master\ProyectoFinal-master\empleados.h(51,21): warning C4101: 'telefono': variable local sin referencia
+  Generando código
+  2 of 257 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  ProyectoFinal.vcxproj -> F:\Tareas de 3er Semestre\Programacion 1\proyecto_sin color\ProyectoFinal-master\ProyectoFinal-master\x64\Release\ProyectoFinal.exe

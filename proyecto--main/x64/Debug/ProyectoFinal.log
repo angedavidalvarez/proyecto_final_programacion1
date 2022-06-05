@@ -1,0 +1,4 @@
+﻿  ProyectoFinal.cpp
+D:\proyecto--main\proyecto--main\empleados.h(51,16): warning C4101: 'nit': variable local sin referencia
+D:\proyecto--main\proyecto--main\empleados.h(51,21): warning C4101: 'telefono': variable local sin referencia
+  ProyectoFinal.vcxproj -> D:\proyecto--main\proyecto--main\x64\Debug\ProyectoFinal.exe
